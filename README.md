@@ -3,4 +3,6 @@ Run the python script to fetch all mile saver awards from United's APIs. Just gi
  
 Sort, filter, search on the csv directly from excel, or upload the csv output file to this page for a web UI experience. https://claude.ai/public/artifacts/dcc84069-b285-41e0-9297-218c62b83fe8
 
+** SHOUTOUT TO CZ FOR THIS TIP!
+ 
 Try it out yourself without running the script as I've added a sample CSV output in this repo from a Jan 17 2026 script run!
