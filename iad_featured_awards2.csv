@@ -1,0 +1,756 @@
+Flight Pairing,Origin,Destination,Origin Code,Destination Code,Depart Date,Return Date,Class,Origin Fare in Miles,Destination Fare in Miles,Total Fare in Miles
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,1/26/2026,Economy/Economy,13500,13500,27000
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,1/25/2026,Economy/Economy,13500,13500,27000
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,3/1/2026,Economy/Economy,13500,13500,27000
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,2/10/2026,Economy/Economy,13500,14200,27700
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,2/18/2026,Economy/Economy,13500,14200,27700
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,2/24/2026,Economy/Economy,13500,14200,27700
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,1/31/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,1/20/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,3/23/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,3/2/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,3/5/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,2/19/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,2/1/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,1/30/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,1/18/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,2/2/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,2/4/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,2/14/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,2/3/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,2/27/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,2/12/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,2/21/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,2/15/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,4/6/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,4/10/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,4/9/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,3/20/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,3/13/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,2/20/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/17/2026,1/19/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/17/2026,2/17/2026,Economy/Economy,13500,12000,25500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/17/2026,2/18/2026,Economy/Economy,13500,12000,25500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/17/2026,2/10/2026,Economy/Economy,13500,13300,26800
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/17/2026,2/19/2026,Economy/Economy,13500,13500,27000
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/17/2026,2/20/2026,Economy/Economy,13500,13500,27000
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/17/2026,4/4/2026,Economy/Economy,13500,13500,27000
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/17/2026,4/8/2026,Economy/Economy,13500,14200,27700
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/17/2026,2/23/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/17/2026,2/9/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/17/2026,4/10/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/17/2026,4/2/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/17/2026,4/7/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/17/2026,3/22/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/17/2026,1/24/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/17/2026,1/26/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/17/2026,1/22/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/17/2026,1/28/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/17/2026,1/23/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/17/2026,4/6/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/17/2026,3/23/2026,Economy/Economy,13500,15000,28500
+IAD-LAS,"Washington, D.C.",Las Vegas,IAD,LAS,1/17/2026,1/26/2026,Economy/Economy,13500,13500,27000
+IAD-LAS,"Washington, D.C.",Las Vegas,IAD,LAS,1/17/2026,4/3/2026,Economy/Economy,13500,15000,28500
+IAD-LAS,"Washington, D.C.",Las Vegas,IAD,LAS,1/17/2026,3/16/2026,Economy/Economy,13500,15000,28500
+IAD-LAS,"Washington, D.C.",Las Vegas,IAD,LAS,1/17/2026,4/2/2026,Economy/Economy,13500,15000,28500
+IAD-TPA,"Washington, D.C.",Tampa,IAD,TPA,1/17/2026,1/20/2026,Economy/Economy,15000,15000,30000
+IAD-TPA,"Washington, D.C.",Tampa,IAD,TPA,1/17/2026,4/10/2026,Economy/Economy,15000,15000,30000
+IAD-TPA,"Washington, D.C.",Tampa,IAD,TPA,1/17/2026,1/24/2026,Economy/Economy,15000,15000,30000
+IAD-TPA,"Washington, D.C.",Tampa,IAD,TPA,1/17/2026,3/2/2026,Economy/Economy,15000,15000,30000
+IAD-TPA,"Washington, D.C.",Tampa,IAD,TPA,1/17/2026,1/21/2026,Economy/Economy,15000,15000,30000
+IAD-TPA,"Washington, D.C.",Tampa,IAD,TPA,1/17/2026,2/13/2026,Economy/Economy,15000,15000,30000
+IAD-PBI,"Washington, D.C.",West Palm Beach,IAD,PBI,1/17/2026,,Economy,15000,N/A,N/A
+IAD-ATL,"Washington, D.C.",Atlanta,IAD,ATL,1/17/2026,2/14/2026,Economy/Economy,13500,9800,23300
+IAD-ATL,"Washington, D.C.",Atlanta,IAD,ATL,1/17/2026,2/22/2026,Economy/Economy,13500,11100,24600
+IAD-ATL,"Washington, D.C.",Atlanta,IAD,ATL,1/17/2026,1/23/2026,Economy/Economy,13500,15000,28500
+IAD-ZRH,"Washington, D.C.",Zurich,IAD,ZRH,1/17/2026,3/26/2026,Economy/Economy,40000,39300,79300
+IAD-ZRH,"Washington, D.C.",Zurich,IAD,ZRH,1/17/2026,3/25/2026,Economy/Economy,40000,39300,79300
+IAD-ZRH,"Washington, D.C.",Zurich,IAD,ZRH,1/17/2026,3/20/2026,Economy/Economy,40000,40000,80000
+IAD-MCO,"Washington, D.C.",Orlando,IAD,MCO,1/18/2026,2/28/2026,Economy/Economy,15000,8200,23200
+IAD-MCO,"Washington, D.C.",Orlando,IAD,MCO,1/18/2026,1/24/2026,Economy/Economy,15000,10100,25100
+IAD-MCO,"Washington, D.C.",Orlando,IAD,MCO,1/18/2026,3/2/2026,Economy/Economy,15000,11900,26900
+IAD-MCO,"Washington, D.C.",Orlando,IAD,MCO,1/18/2026,3/16/2026,Economy/Economy,15000,12500,27500
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/18/2026,1/31/2026,Economy/Economy,15000,13500,28500
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/18/2026,2/1/2026,Economy/Economy,15000,13500,28500
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/18/2026,4/2/2026,Economy/Economy,15000,14200,29200
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/18/2026,1/21/2026,Economy/Economy,15000,15000,30000
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/18/2026,3/27/2026,Economy/Economy,15000,15000,30000
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/18/2026,2/17/2026,Economy/Economy,15000,15000,30000
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/18/2026,4/16/2026,Economy/Economy,15000,15000,30000
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/18/2026,4/17/2026,Economy/Economy,15000,15000,30000
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/18/2026,2/22/2026,Economy/Economy,15000,15000,30000
+IAD-MIA,"Washington, D.C.",Miami,IAD,MIA,1/18/2026,2/4/2026,Economy/Economy,15000,8700,23700
+IAD-FLL,"Washington, D.C.",Fort Lauderdale,IAD,FLL,1/18/2026,2/11/2026,Economy/Economy,15000,8700,23700
+IAD-FLL,"Washington, D.C.",Fort Lauderdale,IAD,FLL,1/18/2026,1/23/2026,Economy/Economy,15000,9600,24600
+IAD-FLL,"Washington, D.C.",Fort Lauderdale,IAD,FLL,1/18/2026,4/17/2026,Economy/Economy,15000,10000,25000
+IAD-FLL,"Washington, D.C.",Fort Lauderdale,IAD,FLL,1/18/2026,2/9/2026,Economy/Economy,15000,14000,29000
+IAD-SEA,"Washington, D.C.",Seattle,IAD,SEA,1/18/2026,3/2/2026,Economy/Economy,15000,12500,27500
+IAD-SEA,"Washington, D.C.",Seattle,IAD,SEA,1/18/2026,2/17/2026,Economy/Economy,15000,13400,28400
+IAD-MCO,"Washington, D.C.",Orlando,IAD,MCO,1/19/2026,2/28/2026,Economy/Economy,15000,8200,23200
+IAD-MCO,"Washington, D.C.",Orlando,IAD,MCO,1/19/2026,1/24/2026,Economy/Economy,15000,10100,25100
+IAD-MCO,"Washington, D.C.",Orlando,IAD,MCO,1/19/2026,3/2/2026,Economy/Economy,15000,11900,26900
+IAD-MCO,"Washington, D.C.",Orlando,IAD,MCO,1/19/2026,3/16/2026,Economy/Economy,15000,12500,27500
+IAD-DFW,"Washington, D.C.",Dallas,IAD,DFW,1/19/2026,2/28/2026,Economy/Economy,15000,11500,26500
+IAD-DFW,"Washington, D.C.",Dallas,IAD,DFW,1/19/2026,2/20/2026,Economy/Economy,15000,11500,26500
+IAD-DFW,"Washington, D.C.",Dallas,IAD,DFW,1/19/2026,3/11/2026,Economy/Economy,15000,11500,26500
+IAD-DFW,"Washington, D.C.",Dallas,IAD,DFW,1/19/2026,2/27/2026,Economy/Economy,15000,11500,26500
+IAD-DFW,"Washington, D.C.",Dallas,IAD,DFW,1/19/2026,2/21/2026,Economy/Economy,15000,11500,26500
+IAD-DFW,"Washington, D.C.",Dallas,IAD,DFW,1/19/2026,3/12/2026,Economy/Economy,15000,13300,28300
+IAD-DFW,"Washington, D.C.",Dallas,IAD,DFW,1/19/2026,3/1/2026,Economy/Economy,15000,12500,27500
+IAD-PHX,"Washington, D.C.",Phoenix,IAD,PHX,1/20/2026,4/1/2026,Economy/Economy,15000,15000,30000
+IAD-PHX,"Washington, D.C.",Phoenix,IAD,PHX,1/20/2026,3/31/2026,Economy/Economy,15000,15000,30000
+IAD-PHX,"Washington, D.C.",Phoenix,IAD,PHX,1/20/2026,1/21/2026,Economy/Economy,15000,15000,30000
+IAD-PHX,"Washington, D.C.",Phoenix,IAD,PHX,1/20/2026,2/6/2026,Economy/Economy,15000,15000,30000
+IAD-FRA,"Washington, D.C.",Frankfurt,IAD,FRA,1/20/2026,3/18/2026,Economy/Economy,40000,37000,77000
+IAD-FRA,"Washington, D.C.",Frankfurt,IAD,FRA,1/20/2026,3/14/2026,Economy/Economy,40000,40000,80000
+IAD-CHS,"Washington, D.C.",Charleston,IAD,CHS,1/20/2026,4/12/2026,Economy/Economy,15000,14300,29300
+IAD-MCO,"Washington, D.C.",Orlando,IAD,MCO,1/21/2026,2/28/2026,Economy/Economy,15000,8200,23200
+IAD-MCO,"Washington, D.C.",Orlando,IAD,MCO,1/21/2026,1/24/2026,Economy/Economy,15000,10100,25100
+IAD-MCO,"Washington, D.C.",Orlando,IAD,MCO,1/21/2026,3/2/2026,Economy/Economy,15000,11900,26900
+IAD-MCO,"Washington, D.C.",Orlando,IAD,MCO,1/21/2026,3/16/2026,Economy/Economy,15000,12500,27500
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/21/2026,1/31/2026,Economy/Economy,15000,13500,28500
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/21/2026,2/1/2026,Economy/Economy,15000,13500,28500
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/21/2026,4/2/2026,Economy/Economy,15000,14200,29200
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/21/2026,3/27/2026,Economy/Economy,15000,15000,30000
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/21/2026,2/17/2026,Economy/Economy,15000,15000,30000
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/21/2026,4/16/2026,Economy/Economy,15000,15000,30000
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/21/2026,4/17/2026,Economy/Economy,15000,15000,30000
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/21/2026,2/22/2026,Economy/Economy,15000,15000,30000
+IAD-PHX,"Washington, D.C.",Phoenix,IAD,PHX,1/21/2026,4/1/2026,Economy/Economy,15000,15000,30000
+IAD-PHX,"Washington, D.C.",Phoenix,IAD,PHX,1/21/2026,3/31/2026,Economy/Economy,15000,15000,30000
+IAD-PHX,"Washington, D.C.",Phoenix,IAD,PHX,1/21/2026,2/6/2026,Economy/Economy,15000,15000,30000
+IAD-ATL,"Washington, D.C.",Atlanta,IAD,ATL,1/21/2026,2/14/2026,Economy/Economy,15000,9800,24800
+IAD-ATL,"Washington, D.C.",Atlanta,IAD,ATL,1/21/2026,2/22/2026,Economy/Economy,15000,11100,26100
+IAD-ATL,"Washington, D.C.",Atlanta,IAD,ATL,1/21/2026,1/23/2026,Economy/Economy,15000,15000,30000
+IAD-CHS,"Washington, D.C.",Charleston,IAD,CHS,1/21/2026,4/12/2026,Economy/Economy,15000,14300,29300
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/22/2026,1/26/2026,Economy/Economy,13500,13500,27000
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/22/2026,1/25/2026,Economy/Economy,13500,13500,27000
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/22/2026,3/1/2026,Economy/Economy,13500,13500,27000
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/22/2026,2/10/2026,Economy/Economy,13500,14200,27700
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/22/2026,2/18/2026,Economy/Economy,13500,14200,27700
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/22/2026,2/24/2026,Economy/Economy,13500,14200,27700
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/22/2026,1/31/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/22/2026,3/23/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/22/2026,3/2/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/22/2026,3/5/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/22/2026,2/19/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/22/2026,2/1/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/22/2026,1/30/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/22/2026,2/2/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/22/2026,2/4/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/22/2026,2/14/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/22/2026,2/3/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/22/2026,2/27/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/22/2026,2/12/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/22/2026,2/21/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/22/2026,2/15/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/22/2026,4/6/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/22/2026,4/10/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/22/2026,4/9/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/22/2026,3/20/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/22/2026,3/13/2026,Economy/Economy,13500,15000,28500
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,1/22/2026,2/20/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/22/2026,2/17/2026,Economy/Economy,13500,12000,25500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/22/2026,2/18/2026,Economy/Economy,13500,12000,25500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/22/2026,2/10/2026,Economy/Economy,13500,13300,26800
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/22/2026,2/19/2026,Economy/Economy,13500,13500,27000
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/22/2026,2/20/2026,Economy/Economy,13500,13500,27000
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/22/2026,4/4/2026,Economy/Economy,13500,13500,27000
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/22/2026,4/8/2026,Economy/Economy,13500,14200,27700
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/22/2026,2/23/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/22/2026,2/9/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/22/2026,4/10/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/22/2026,4/2/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/22/2026,4/7/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/22/2026,3/22/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/22/2026,1/24/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/22/2026,1/26/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/22/2026,1/28/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/22/2026,1/23/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/22/2026,4/6/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/22/2026,3/23/2026,Economy/Economy,13500,15000,28500
+IAD-LAS,"Washington, D.C.",Las Vegas,IAD,LAS,1/22/2026,1/26/2026,Economy/Economy,13500,13500,27000
+IAD-LAS,"Washington, D.C.",Las Vegas,IAD,LAS,1/22/2026,4/3/2026,Economy/Economy,13500,15000,28500
+IAD-LAS,"Washington, D.C.",Las Vegas,IAD,LAS,1/22/2026,3/16/2026,Economy/Economy,13500,15000,28500
+IAD-LAS,"Washington, D.C.",Las Vegas,IAD,LAS,1/22/2026,4/2/2026,Economy/Economy,13500,15000,28500
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/22/2026,1/31/2026,Economy/Economy,15000,13500,28500
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/22/2026,2/1/2026,Economy/Economy,15000,13500,28500
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/22/2026,4/2/2026,Economy/Economy,15000,14200,29200
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/22/2026,3/27/2026,Economy/Economy,15000,15000,30000
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/22/2026,2/17/2026,Economy/Economy,15000,15000,30000
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/22/2026,4/16/2026,Economy/Economy,15000,15000,30000
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/22/2026,4/17/2026,Economy/Economy,15000,15000,30000
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/22/2026,2/22/2026,Economy/Economy,15000,15000,30000
+IAD-PHX,"Washington, D.C.",Phoenix,IAD,PHX,1/22/2026,4/1/2026,Economy/Economy,15000,15000,30000
+IAD-PHX,"Washington, D.C.",Phoenix,IAD,PHX,1/22/2026,3/31/2026,Economy/Economy,15000,15000,30000
+IAD-PHX,"Washington, D.C.",Phoenix,IAD,PHX,1/22/2026,2/6/2026,Economy/Economy,15000,15000,30000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/22/2026,3/24/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/22/2026,3/30/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/22/2026,2/2/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/22/2026,3/26/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/22/2026,2/5/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/22/2026,1/25/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/22/2026,3/25/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/22/2026,2/8/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/22/2026,1/31/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/22/2026,2/1/2026,Economy/Economy,55000,55000,110000
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/23/2026,2/17/2026,Economy/Economy,13500,12000,25500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/23/2026,2/18/2026,Economy/Economy,13500,12000,25500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/23/2026,2/10/2026,Economy/Economy,13500,13300,26800
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/23/2026,2/19/2026,Economy/Economy,13500,13500,27000
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/23/2026,2/20/2026,Economy/Economy,13500,13500,27000
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/23/2026,4/4/2026,Economy/Economy,13500,13500,27000
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/23/2026,4/8/2026,Economy/Economy,13500,14200,27700
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/23/2026,2/23/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/23/2026,2/9/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/23/2026,4/10/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/23/2026,4/2/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/23/2026,4/7/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/23/2026,3/22/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/23/2026,1/24/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/23/2026,1/26/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/23/2026,1/28/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/23/2026,4/6/2026,Economy/Economy,13500,15000,28500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,1/23/2026,3/23/2026,Economy/Economy,13500,15000,28500
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/23/2026,1/31/2026,Economy/Economy,15000,13500,28500
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/23/2026,2/1/2026,Economy/Economy,15000,13500,28500
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/23/2026,4/2/2026,Economy/Economy,15000,14200,29200
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/23/2026,3/27/2026,Economy/Economy,15000,15000,30000
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/23/2026,2/17/2026,Economy/Economy,15000,15000,30000
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/23/2026,4/16/2026,Economy/Economy,15000,15000,30000
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/23/2026,4/17/2026,Economy/Economy,15000,15000,30000
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,1/23/2026,2/22/2026,Economy/Economy,15000,15000,30000
+IAD-PHX,"Washington, D.C.",Phoenix,IAD,PHX,1/23/2026,4/1/2026,Economy/Economy,15000,15000,30000
+IAD-PHX,"Washington, D.C.",Phoenix,IAD,PHX,1/23/2026,3/31/2026,Economy/Economy,15000,15000,30000
+IAD-PHX,"Washington, D.C.",Phoenix,IAD,PHX,1/23/2026,2/6/2026,Economy/Economy,15000,15000,30000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/23/2026,3/24/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/23/2026,3/30/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/23/2026,2/2/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/23/2026,3/26/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/23/2026,2/5/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/23/2026,1/25/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/23/2026,3/25/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/23/2026,2/8/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/23/2026,1/31/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/23/2026,2/1/2026,Economy/Economy,55000,55000,110000
+IAD-AUS,"Washington, D.C.",Austin,IAD,AUS,1/23/2026,4/10/2026,Economy/Economy,13500,15000,28500
+IAD-AUS,"Washington, D.C.",Austin,IAD,AUS,1/23/2026,4/9/2026,Economy/Economy,13500,15000,28500
+IAD-AUS,"Washington, D.C.",Austin,IAD,AUS,1/23/2026,2/23/2026,Economy/Economy,13500,15000,28500
+IAD-SLC,"Washington, D.C.",Salt Lake City,IAD,SLC,1/23/2026,3/17/2026,Economy/Economy,15000,15000,30000
+IAD-LAS,"Washington, D.C.",Las Vegas,IAD,LAS,1/24/2026,1/26/2026,Economy/Economy,15000,13500,28500
+IAD-LAS,"Washington, D.C.",Las Vegas,IAD,LAS,1/24/2026,4/3/2026,Economy/Economy,15000,15000,30000
+IAD-LAS,"Washington, D.C.",Las Vegas,IAD,LAS,1/24/2026,3/16/2026,Economy/Economy,15000,15000,30000
+IAD-LAS,"Washington, D.C.",Las Vegas,IAD,LAS,1/24/2026,4/2/2026,Economy/Economy,15000,15000,30000
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,1/24/2026,2/26/2026,Economy/Economy,28400,27500,55900
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,1/24/2026,2/19/2026,Economy/Economy,28400,27500,55900
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,1/24/2026,4/7/2026,Economy/Economy,28400,28500,56900
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,1/24/2026,3/20/2026,Economy/Economy,28400,28500,56900
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,1/24/2026,3/30/2026,Economy/Economy,28400,39300,67700
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,1/24/2026,3/29/2026,Economy/Economy,28400,40000,68400
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,1/24/2026,3/15/2026,Economy/Economy,28400,40000,68400
+IAD-PHX,"Washington, D.C.",Phoenix,IAD,PHX,1/24/2026,4/1/2026,Economy/Economy,15000,15000,30000
+IAD-PHX,"Washington, D.C.",Phoenix,IAD,PHX,1/24/2026,3/31/2026,Economy/Economy,15000,15000,30000
+IAD-PHX,"Washington, D.C.",Phoenix,IAD,PHX,1/24/2026,2/6/2026,Economy/Economy,15000,15000,30000
+IAD-MSY,"Washington, D.C.",New Orleans,IAD,MSY,1/24/2026,1/27/2026,Economy/Economy,13500,13500,27000
+IAD-MSY,"Washington, D.C.",New Orleans,IAD,MSY,1/24/2026,4/7/2026,Economy/Economy,13500,15000,28500
+IAD-TLV,"Washington, D.C.",Tel Aviv,IAD,TLV,1/24/2026,1/30/2026,Economy/Economy,40000,40000,80000
+IAD-TLV,"Washington, D.C.",Tel Aviv,IAD,TLV,1/24/2026,2/2/2026,Economy/Economy,40000,40000,80000
+IAD-TLV,"Washington, D.C.",Tel Aviv,IAD,TLV,1/24/2026,1/31/2026,Economy/Economy,40000,40000,80000
+IAD-TLV,"Washington, D.C.",Tel Aviv,IAD,TLV,1/24/2026,2/1/2026,Economy/Economy,40000,40000,80000
+IAD-TLV,"Washington, D.C.",Tel Aviv,IAD,TLV,1/25/2026,1/30/2026,Economy/Economy,40000,40000,80000
+IAD-TLV,"Washington, D.C.",Tel Aviv,IAD,TLV,1/25/2026,2/2/2026,Economy/Economy,40000,40000,80000
+IAD-TLV,"Washington, D.C.",Tel Aviv,IAD,TLV,1/25/2026,1/31/2026,Economy/Economy,40000,40000,80000
+IAD-TLV,"Washington, D.C.",Tel Aviv,IAD,TLV,1/25/2026,2/1/2026,Economy/Economy,40000,40000,80000
+IAD-FRA,"Washington, D.C.",Frankfurt,IAD,FRA,1/25/2026,3/18/2026,Economy/Economy,40000,37000,77000
+IAD-FRA,"Washington, D.C.",Frankfurt,IAD,FRA,1/25/2026,3/14/2026,Economy/Economy,40000,40000,80000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/26/2026,3/24/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/26/2026,3/30/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/26/2026,2/2/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/26/2026,3/26/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/26/2026,2/5/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/26/2026,3/25/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/26/2026,2/8/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/26/2026,1/31/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/26/2026,2/1/2026,Economy/Economy,55000,55000,110000
+IAD-JAX,"Washington, D.C.",Jacksonville,IAD,JAX,1/26/2026,3/6/2026,Economy/Economy,15000,11500,26500
+IAD-JAX,"Washington, D.C.",Jacksonville,IAD,JAX,1/26/2026,2/15/2026,Economy/Economy,15000,11500,26500
+IAD-JAX,"Washington, D.C.",Jacksonville,IAD,JAX,1/26/2026,1/29/2026,Economy/Economy,15000,15000,30000
+IAD-JAX,"Washington, D.C.",Jacksonville,IAD,JAX,1/26/2026,1/28/2026,Economy/Economy,15000,15000,30000
+IAD-PHX,"Washington, D.C.",Phoenix,IAD,PHX,1/29/2026,4/1/2026,Economy/Economy,15000,15000,30000
+IAD-PHX,"Washington, D.C.",Phoenix,IAD,PHX,1/29/2026,3/31/2026,Economy/Economy,15000,15000,30000
+IAD-PHX,"Washington, D.C.",Phoenix,IAD,PHX,1/29/2026,2/6/2026,Economy/Economy,15000,15000,30000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/29/2026,3/24/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/29/2026,3/30/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/29/2026,2/2/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/29/2026,3/26/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/29/2026,2/5/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/29/2026,3/25/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/29/2026,2/8/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/29/2026,1/31/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/29/2026,2/1/2026,Economy/Economy,55000,55000,110000
+IAD-AUS,"Washington, D.C.",Austin,IAD,AUS,1/29/2026,4/10/2026,Economy/Economy,15000,15000,30000
+IAD-AUS,"Washington, D.C.",Austin,IAD,AUS,1/29/2026,4/9/2026,Economy/Economy,15000,15000,30000
+IAD-AUS,"Washington, D.C.",Austin,IAD,AUS,1/29/2026,2/23/2026,Economy/Economy,15000,15000,30000
+IAD-ZRH,"Washington, D.C.",Zurich,IAD,ZRH,1/29/2026,3/26/2026,Economy/Economy,40000,39300,79300
+IAD-ZRH,"Washington, D.C.",Zurich,IAD,ZRH,1/29/2026,3/25/2026,Economy/Economy,40000,39300,79300
+IAD-ZRH,"Washington, D.C.",Zurich,IAD,ZRH,1/29/2026,3/20/2026,Economy/Economy,40000,40000,80000
+IAD-CUN,"Washington, D.C.",Cancun,IAD,CUN,1/30/2026,,Economy,20000,N/A,N/A
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/30/2026,3/24/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/30/2026,3/30/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/30/2026,2/2/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/30/2026,3/26/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/30/2026,2/5/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/30/2026,3/25/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/30/2026,2/8/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/30/2026,1/31/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,1/30/2026,2/1/2026,Economy/Economy,55000,55000,110000
+IAD-ZRH,"Washington, D.C.",Zurich,IAD,ZRH,1/30/2026,3/26/2026,Economy/Economy,40000,39300,79300
+IAD-ZRH,"Washington, D.C.",Zurich,IAD,ZRH,1/30/2026,3/25/2026,Economy/Economy,40000,39300,79300
+IAD-ZRH,"Washington, D.C.",Zurich,IAD,ZRH,1/30/2026,3/20/2026,Economy/Economy,40000,40000,80000
+IAD-ZRH,"Washington, D.C.",Zurich,IAD,ZRH,1/31/2026,3/26/2026,Economy/Economy,40000,39300,79300
+IAD-ZRH,"Washington, D.C.",Zurich,IAD,ZRH,1/31/2026,3/25/2026,Economy/Economy,40000,39300,79300
+IAD-ZRH,"Washington, D.C.",Zurich,IAD,ZRH,1/31/2026,3/20/2026,Economy/Economy,40000,40000,80000
+IAD-FLL,"Washington, D.C.",Fort Lauderdale,IAD,FLL,2/1/2026,2/11/2026,Economy/Economy,8700,8700,17400
+IAD-FLL,"Washington, D.C.",Fort Lauderdale,IAD,FLL,2/1/2026,4/17/2026,Economy/Economy,8700,10000,18700
+IAD-FLL,"Washington, D.C.",Fort Lauderdale,IAD,FLL,2/1/2026,2/9/2026,Economy/Economy,8700,14000,22700
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,2/1/2026,3/25/2026,Economy/Economy,55000,30700,85700
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,2/1/2026,3/20/2026,Economy/Economy,55000,30700,85700
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,2/1/2026,2/2/2026,Economy/Economy,55000,30700,85700
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,2/1/2026,4/10/2026,Economy/Economy,55000,30700,85700
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,2/1/2026,3/22/2026,Economy/Economy,55000,55000,110000
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,2/1/2026,4/11/2026,Economy/Economy,55000,55000,110000
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,2/1/2026,3/27/2026,Economy/Economy,55000,55000,110000
+IAD-MSY,"Washington, D.C.",New Orleans,IAD,MSY,2/2/2026,4/7/2026,Economy/Economy,13500,15000,28500
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,2/4/2026,2/18/2026,Economy/Economy,25000,25000,50000
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,2/4/2026,2/15/2026,Economy/Economy,25000,25000,50000
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,2/4/2026,3/2/2026,Economy/Economy,25000,25000,50000
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,2/4/2026,3/29/2026,Economy/Economy,25000,25000,50000
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,2/4/2026,3/1/2026,Economy/Economy,25000,25000,50000
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,2/4/2026,2/27/2026,Economy/Economy,25000,25000,50000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,2/4/2026,3/24/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,2/4/2026,3/30/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,2/4/2026,3/26/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,2/4/2026,2/5/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,2/4/2026,3/25/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,2/4/2026,2/8/2026,Economy/Economy,55000,55000,110000
+IAD-FCO,"Washington, D.C.",Rome,IAD,FCO,2/5/2026,4/17/2026,Economy/Economy,40000,40000,80000
+IAD-FCO,"Washington, D.C.",Rome,IAD,FCO,2/5/2026,3/2/2026,Economy/Economy,40000,36300,76300
+IAD-FCO,"Washington, D.C.",Rome,IAD,FCO,2/5/2026,4/15/2026,Economy/Economy,40000,40000,80000
+IAD-FLL,"Washington, D.C.",Fort Lauderdale,IAD,FLL,2/6/2026,2/11/2026,Economy/Economy,15000,8700,23700
+IAD-FLL,"Washington, D.C.",Fort Lauderdale,IAD,FLL,2/6/2026,4/17/2026,Economy/Economy,15000,10000,25000
+IAD-FLL,"Washington, D.C.",Fort Lauderdale,IAD,FLL,2/6/2026,2/9/2026,Economy/Economy,15000,14000,29000
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/7/2026,3/1/2026,Economy/Economy,14200,13500,27700
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/7/2026,2/10/2026,Economy/Economy,14200,14200,28400
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/7/2026,2/18/2026,Economy/Economy,14200,14200,28400
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/7/2026,2/24/2026,Economy/Economy,14200,14200,28400
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/7/2026,3/23/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/7/2026,3/2/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/7/2026,3/5/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/7/2026,2/19/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/7/2026,2/14/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/7/2026,2/27/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/7/2026,2/12/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/7/2026,2/21/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/7/2026,2/15/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/7/2026,4/6/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/7/2026,4/10/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/7/2026,4/9/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/7/2026,3/20/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/7/2026,3/13/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/7/2026,2/20/2026,Economy/Economy,14200,15000,29200
+IAD-FLL,"Washington, D.C.",Fort Lauderdale,IAD,FLL,2/7/2026,2/11/2026,Economy/Economy,9600,8700,18300
+IAD-FLL,"Washington, D.C.",Fort Lauderdale,IAD,FLL,2/7/2026,4/17/2026,Economy/Economy,9600,10000,19600
+IAD-FLL,"Washington, D.C.",Fort Lauderdale,IAD,FLL,2/7/2026,2/9/2026,Economy/Economy,9600,14000,23600
+IAD-SJU,"Washington, D.C.",San Juan,IAD,SJU,2/8/2026,2/25/2026,Economy/Economy,13000,13000,26000
+IAD-CUN,"Washington, D.C.",Cancun,IAD,CUN,2/8/2026,,Economy,19100,N/A,N/A
+IAD-SEA,"Washington, D.C.",Seattle,IAD,SEA,2/9/2026,3/2/2026,Economy/Economy,14000,12500,26500
+IAD-SEA,"Washington, D.C.",Seattle,IAD,SEA,2/9/2026,2/17/2026,Economy/Economy,14000,13400,27400
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/10/2026,3/1/2026,Economy/Economy,14200,13500,27700
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/10/2026,2/18/2026,Economy/Economy,14200,14200,28400
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/10/2026,2/24/2026,Economy/Economy,14200,14200,28400
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/10/2026,3/23/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/10/2026,3/2/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/10/2026,3/5/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/10/2026,2/19/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/10/2026,2/14/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/10/2026,2/27/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/10/2026,2/12/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/10/2026,2/21/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/10/2026,2/15/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/10/2026,4/6/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/10/2026,4/10/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/10/2026,4/9/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/10/2026,3/20/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/10/2026,3/13/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/10/2026,2/20/2026,Economy/Economy,14200,15000,29200
+IAD-FLL,"Washington, D.C.",Fort Lauderdale,IAD,FLL,2/10/2026,2/11/2026,Economy/Economy,8700,8700,17400
+IAD-FLL,"Washington, D.C.",Fort Lauderdale,IAD,FLL,2/10/2026,4/17/2026,Economy/Economy,8700,10000,18700
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,2/11/2026,4/2/2026,Economy/Economy,12400,14200,26600
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,2/11/2026,3/27/2026,Economy/Economy,12400,15000,27400
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,2/11/2026,2/17/2026,Economy/Economy,12400,15000,27400
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,2/11/2026,4/16/2026,Economy/Economy,12400,15000,27400
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,2/11/2026,4/17/2026,Economy/Economy,12400,15000,27400
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,2/11/2026,2/22/2026,Economy/Economy,12400,15000,27400
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,2/11/2026,3/25/2026,Economy/Economy,55000,30700,85700
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,2/11/2026,3/20/2026,Economy/Economy,55000,30700,85700
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,2/11/2026,4/10/2026,Economy/Economy,55000,30700,85700
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,2/11/2026,3/22/2026,Economy/Economy,55000,55000,110000
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,2/11/2026,4/11/2026,Economy/Economy,55000,55000,110000
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,2/11/2026,3/27/2026,Economy/Economy,55000,55000,110000
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,2/14/2026,4/2/2026,Economy/Economy,12400,14200,26600
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,2/14/2026,3/27/2026,Economy/Economy,12400,15000,27400
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,2/14/2026,2/17/2026,Economy/Economy,12400,15000,27400
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,2/14/2026,4/16/2026,Economy/Economy,12400,15000,27400
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,2/14/2026,4/17/2026,Economy/Economy,12400,15000,27400
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,2/14/2026,2/22/2026,Economy/Economy,12400,15000,27400
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/14/2026,2/26/2026,Economy/Economy,45000,44400,89400
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/14/2026,3/3/2026,Economy/Economy,45000,45000,90000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/14/2026,3/10/2026,Economy/Economy,45000,45000,90000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/14/2026,3/26/2026,Economy/Economy,45000,45000,90000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/14/2026,2/27/2026,Economy/Economy,45000,45000,90000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/14/2026,3/2/2026,Economy/Economy,45000,45000,90000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/14/2026,3/1/2026,Economy/Economy,45000,45000,90000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/14/2026,3/27/2026,Economy/Economy,45000,45000,90000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/14/2026,2/28/2026,Economy/Economy,45000,45000,90000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/14/2026,3/25/2026,Economy/Economy,45000,45000,90000
+IAD-SEA,"Washington, D.C.",Seattle,IAD,SEA,2/14/2026,3/2/2026,Economy/Economy,12500,12500,25000
+IAD-SEA,"Washington, D.C.",Seattle,IAD,SEA,2/14/2026,2/17/2026,Economy/Economy,12500,13400,25900
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,2/14/2026,3/25/2026,Economy/Economy,55000,30700,85700
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,2/14/2026,3/20/2026,Economy/Economy,55000,30700,85700
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,2/14/2026,4/10/2026,Economy/Economy,55000,30700,85700
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,2/14/2026,3/22/2026,Economy/Economy,55000,55000,110000
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,2/14/2026,4/11/2026,Economy/Economy,55000,55000,110000
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,2/14/2026,3/27/2026,Economy/Economy,55000,55000,110000
+IAD-SAT,"Washington, D.C.",San Antonio,IAD,SAT,2/14/2026,3/23/2026,Economy/Economy,13900,13900,27800
+IAD-SAT,"Washington, D.C.",San Antonio,IAD,SAT,2/14/2026,2/17/2026,Economy/Economy,13900,13900,27800
+IAD-SAT,"Washington, D.C.",San Antonio,IAD,SAT,2/14/2026,2/16/2026,Economy/Economy,13900,15000,28900
+IAD-MCO,"Washington, D.C.",Orlando,IAD,MCO,2/15/2026,2/28/2026,Economy/Economy,9500,8200,17700
+IAD-MCO,"Washington, D.C.",Orlando,IAD,MCO,2/15/2026,3/2/2026,Economy/Economy,9500,11900,21400
+IAD-MCO,"Washington, D.C.",Orlando,IAD,MCO,2/15/2026,3/16/2026,Economy/Economy,9500,12500,22000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/15/2026,2/26/2026,Economy/Economy,45000,44400,89400
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/15/2026,3/3/2026,Economy/Economy,45000,45000,90000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/15/2026,3/10/2026,Economy/Economy,45000,45000,90000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/15/2026,3/26/2026,Economy/Economy,45000,45000,90000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/15/2026,2/27/2026,Economy/Economy,45000,45000,90000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/15/2026,3/2/2026,Economy/Economy,45000,45000,90000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/15/2026,3/1/2026,Economy/Economy,45000,45000,90000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/15/2026,3/27/2026,Economy/Economy,45000,45000,90000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/15/2026,2/28/2026,Economy/Economy,45000,45000,90000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/15/2026,3/25/2026,Economy/Economy,45000,45000,90000
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,2/15/2026,2/18/2026,Economy/Economy,25000,25000,50000
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,2/15/2026,3/2/2026,Economy/Economy,25000,25000,50000
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,2/15/2026,3/29/2026,Economy/Economy,25000,25000,50000
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,2/15/2026,3/1/2026,Economy/Economy,25000,25000,50000
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,2/15/2026,2/27/2026,Economy/Economy,25000,25000,50000
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,2/15/2026,3/25/2026,Economy/Economy,55000,30700,85700
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,2/15/2026,3/20/2026,Economy/Economy,55000,30700,85700
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,2/15/2026,4/10/2026,Economy/Economy,55000,30700,85700
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,2/15/2026,3/22/2026,Economy/Economy,55000,55000,110000
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,2/15/2026,4/11/2026,Economy/Economy,55000,55000,110000
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,2/15/2026,3/27/2026,Economy/Economy,55000,55000,110000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/16/2026,2/26/2026,Economy/Economy,45000,44400,89400
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/16/2026,3/3/2026,Economy/Economy,45000,45000,90000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/16/2026,3/10/2026,Economy/Economy,45000,45000,90000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/16/2026,3/26/2026,Economy/Economy,45000,45000,90000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/16/2026,2/27/2026,Economy/Economy,45000,45000,90000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/16/2026,3/2/2026,Economy/Economy,45000,45000,90000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/16/2026,3/1/2026,Economy/Economy,45000,45000,90000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/16/2026,3/27/2026,Economy/Economy,45000,45000,90000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/16/2026,2/28/2026,Economy/Economy,45000,45000,90000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,2/16/2026,3/25/2026,Economy/Economy,45000,45000,90000
+IAD-STT,"Washington, D.C.",St. Thomas,IAD,STT,2/16/2026,2/19/2026,Economy/Economy,10000,15500,25500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/17/2026,2/18/2026,Economy/Economy,13300,12000,25300
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/17/2026,2/19/2026,Economy/Economy,13300,13500,26800
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/17/2026,2/20/2026,Economy/Economy,13300,13500,26800
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/17/2026,4/4/2026,Economy/Economy,13300,13500,26800
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/17/2026,4/8/2026,Economy/Economy,13300,14200,27500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/17/2026,2/23/2026,Economy/Economy,13300,15000,28300
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/17/2026,4/10/2026,Economy/Economy,13300,15000,28300
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/17/2026,4/2/2026,Economy/Economy,13300,15000,28300
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/17/2026,4/7/2026,Economy/Economy,13300,15000,28300
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/17/2026,3/22/2026,Economy/Economy,13300,15000,28300
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/17/2026,4/6/2026,Economy/Economy,13300,15000,28300
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/17/2026,3/23/2026,Economy/Economy,13300,15000,28300
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,2/17/2026,2/26/2026,Economy/Economy,28400,27500,55900
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,2/17/2026,2/19/2026,Economy/Economy,28400,27500,55900
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,2/17/2026,4/7/2026,Economy/Economy,28400,28500,56900
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,2/17/2026,3/20/2026,Economy/Economy,28400,28500,56900
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,2/17/2026,3/30/2026,Economy/Economy,28400,39300,67700
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,2/17/2026,3/29/2026,Economy/Economy,28400,40000,68400
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,2/17/2026,3/15/2026,Economy/Economy,28400,40000,68400
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,2/17/2026,2/18/2026,Economy/Economy,25000,25000,50000
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,2/17/2026,3/2/2026,Economy/Economy,25000,25000,50000
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,2/17/2026,3/29/2026,Economy/Economy,25000,25000,50000
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,2/17/2026,3/1/2026,Economy/Economy,25000,25000,50000
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,2/17/2026,2/27/2026,Economy/Economy,25000,25000,50000
+IAD-RSW,"Washington, D.C.",Fort Myers,IAD,RSW,2/17/2026,,Economy,11500,N/A,N/A
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/18/2026,2/19/2026,Economy/Economy,13300,13500,26800
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/18/2026,2/20/2026,Economy/Economy,13300,13500,26800
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/18/2026,4/4/2026,Economy/Economy,13300,13500,26800
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/18/2026,4/8/2026,Economy/Economy,13300,14200,27500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/18/2026,2/23/2026,Economy/Economy,13300,15000,28300
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/18/2026,4/10/2026,Economy/Economy,13300,15000,28300
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/18/2026,4/2/2026,Economy/Economy,13300,15000,28300
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/18/2026,4/7/2026,Economy/Economy,13300,15000,28300
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/18/2026,3/22/2026,Economy/Economy,13300,15000,28300
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/18/2026,4/6/2026,Economy/Economy,13300,15000,28300
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/18/2026,3/23/2026,Economy/Economy,13300,15000,28300
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,2/18/2026,3/2/2026,Economy/Economy,25000,25000,50000
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,2/18/2026,3/29/2026,Economy/Economy,25000,25000,50000
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,2/18/2026,3/1/2026,Economy/Economy,25000,25000,50000
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,2/18/2026,2/27/2026,Economy/Economy,25000,25000,50000
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,2/19/2026,3/2/2026,Economy/Economy,25000,25000,50000
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,2/19/2026,3/29/2026,Economy/Economy,25000,25000,50000
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,2/19/2026,3/1/2026,Economy/Economy,25000,25000,50000
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,2/19/2026,2/27/2026,Economy/Economy,25000,25000,50000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,2/19/2026,3/24/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,2/19/2026,3/30/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,2/19/2026,3/26/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,2/19/2026,3/25/2026,Economy/Economy,55000,55000,110000
+IAD-AUS,"Washington, D.C.",Austin,IAD,AUS,2/19/2026,4/10/2026,Economy/Economy,15000,15000,30000
+IAD-AUS,"Washington, D.C.",Austin,IAD,AUS,2/19/2026,4/9/2026,Economy/Economy,15000,15000,30000
+IAD-AUS,"Washington, D.C.",Austin,IAD,AUS,2/19/2026,2/23/2026,Economy/Economy,15000,15000,30000
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/21/2026,4/4/2026,Economy/Economy,13300,13500,26800
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/21/2026,4/8/2026,Economy/Economy,13300,14200,27500
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/21/2026,2/23/2026,Economy/Economy,13300,15000,28300
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/21/2026,4/10/2026,Economy/Economy,13300,15000,28300
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/21/2026,4/2/2026,Economy/Economy,13300,15000,28300
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/21/2026,4/7/2026,Economy/Economy,13300,15000,28300
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/21/2026,3/22/2026,Economy/Economy,13300,15000,28300
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/21/2026,4/6/2026,Economy/Economy,13300,15000,28300
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,2/21/2026,3/23/2026,Economy/Economy,13300,15000,28300
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,2/21/2026,3/2/2026,Economy/Economy,25000,25000,50000
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,2/21/2026,3/29/2026,Economy/Economy,25000,25000,50000
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,2/21/2026,3/1/2026,Economy/Economy,25000,25000,50000
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,2/21/2026,2/27/2026,Economy/Economy,25000,25000,50000
+IAD-RSW,"Washington, D.C.",Fort Myers,IAD,RSW,2/21/2026,,Economy,11500,N/A,N/A
+IAD-LIS,"Washington, D.C.",Lisbon,IAD,LIS,2/22/2026,,Economy,40000,N/A,N/A
+IAD-SLC,"Washington, D.C.",Salt Lake City,IAD,SLC,2/23/2026,3/17/2026,Economy/Economy,15000,15000,30000
+IAD-SJU,"Washington, D.C.",San Juan,IAD,SJU,2/24/2026,2/25/2026,Economy/Economy,13000,13000,26000
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,2/26/2026,4/7/2026,Economy/Economy,31200,28500,59700
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,2/26/2026,3/20/2026,Economy/Economy,31200,28500,59700
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,2/26/2026,3/30/2026,Economy/Economy,31200,39300,70500
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,2/26/2026,3/29/2026,Economy/Economy,31200,40000,71200
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,2/26/2026,3/15/2026,Economy/Economy,31200,40000,71200
+IAD-EDI,"Washington, D.C.",Edinburgh,IAD,EDI,2/26/2026,3/25/2026,Economy/Economy,40000,36400,76400
+IAD-TPA,"Washington, D.C.",Tampa,IAD,TPA,2/27/2026,4/10/2026,Economy/Economy,15000,15000,30000
+IAD-TPA,"Washington, D.C.",Tampa,IAD,TPA,2/27/2026,3/2/2026,Economy/Economy,15000,15000,30000
+IAD-FLL,"Washington, D.C.",Fort Lauderdale,IAD,FLL,2/27/2026,4/17/2026,Economy/Economy,12500,10000,22500
+IAD-PHX,"Washington, D.C.",Phoenix,IAD,PHX,2/27/2026,4/1/2026,Economy/Economy,15000,15000,30000
+IAD-PHX,"Washington, D.C.",Phoenix,IAD,PHX,2/27/2026,3/31/2026,Economy/Economy,15000,15000,30000
+IAD-DFW,"Washington, D.C.",Dallas,IAD,DFW,2/27/2026,2/28/2026,Economy/Economy,11500,11500,23000
+IAD-DFW,"Washington, D.C.",Dallas,IAD,DFW,2/27/2026,3/11/2026,Economy/Economy,11500,11500,23000
+IAD-DFW,"Washington, D.C.",Dallas,IAD,DFW,2/27/2026,3/12/2026,Economy/Economy,11500,13300,24800
+IAD-DFW,"Washington, D.C.",Dallas,IAD,DFW,2/27/2026,3/1/2026,Economy/Economy,11500,12500,24000
+IAD-EDI,"Washington, D.C.",Edinburgh,IAD,EDI,2/27/2026,3/25/2026,Economy/Economy,40000,36400,76400
+IAD-MCO,"Washington, D.C.",Orlando,IAD,MCO,2/28/2026,3/2/2026,Economy/Economy,8200,11900,20100
+IAD-MCO,"Washington, D.C.",Orlando,IAD,MCO,2/28/2026,3/16/2026,Economy/Economy,8200,12500,20700
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/28/2026,3/1/2026,Economy/Economy,14200,13500,27700
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/28/2026,3/23/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/28/2026,3/2/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/28/2026,3/5/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/28/2026,4/6/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/28/2026,4/10/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/28/2026,4/9/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/28/2026,3/20/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,2/28/2026,3/13/2026,Economy/Economy,14200,15000,29200
+IAD-FCO,"Washington, D.C.",Rome,IAD,FCO,2/28/2026,4/17/2026,Economy/Economy,44000,40000,84000
+IAD-FCO,"Washington, D.C.",Rome,IAD,FCO,2/28/2026,3/2/2026,Economy/Economy,44000,36300,80300
+IAD-FCO,"Washington, D.C.",Rome,IAD,FCO,2/28/2026,4/15/2026,Economy/Economy,44000,40000,84000
+IAD-PBI,"Washington, D.C.",West Palm Beach,IAD,PBI,2/28/2026,,Economy,7300,N/A,N/A
+IAD-RSW,"Washington, D.C.",Fort Myers,IAD,RSW,2/28/2026,,Economy,11500,N/A,N/A
+IAD-FRA,"Washington, D.C.",Frankfurt,IAD,FRA,2/28/2026,3/18/2026,Economy/Economy,40000,37000,77000
+IAD-FRA,"Washington, D.C.",Frankfurt,IAD,FRA,2/28/2026,3/14/2026,Economy/Economy,40000,40000,80000
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/1/2026,4/7/2026,Economy/Economy,28400,28500,56900
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/1/2026,3/20/2026,Economy/Economy,28400,28500,56900
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/1/2026,3/30/2026,Economy/Economy,28400,39300,67700
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/1/2026,3/29/2026,Economy/Economy,28400,40000,68400
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/1/2026,3/15/2026,Economy/Economy,28400,40000,68400
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,3/1/2026,3/24/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,3/1/2026,3/30/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,3/1/2026,3/26/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,3/1/2026,3/25/2026,Economy/Economy,55000,55000,110000
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/1/2026,3/25/2026,Economy/Economy,51700,30700,82400
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/1/2026,3/20/2026,Economy/Economy,51700,30700,82400
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/1/2026,4/10/2026,Economy/Economy,51700,30700,82400
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/1/2026,3/22/2026,Economy/Economy,51700,55000,106700
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/1/2026,4/11/2026,Economy/Economy,51700,55000,106700
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/1/2026,3/27/2026,Economy/Economy,51700,55000,106700
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,3/2/2026,3/3/2026,Economy/Economy,45000,45000,90000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,3/2/2026,3/10/2026,Economy/Economy,45000,45000,90000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,3/2/2026,3/26/2026,Economy/Economy,45000,45000,90000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,3/2/2026,3/27/2026,Economy/Economy,45000,45000,90000
+IAD-ACC,"Washington, D.C.",Accra,IAD,ACC,3/2/2026,3/25/2026,Economy/Economy,45000,45000,90000
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,3/2/2026,3/29/2026,Economy/Economy,25000,25000,50000
+IAD-RSW,"Washington, D.C.",Fort Myers,IAD,RSW,3/2/2026,,Economy,11500,N/A,N/A
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/2/2026,3/25/2026,Economy/Economy,49100,30700,79800
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/2/2026,3/20/2026,Economy/Economy,49100,30700,79800
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/2/2026,4/10/2026,Economy/Economy,49100,30700,79800
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/2/2026,3/22/2026,Economy/Economy,49100,55000,104100
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/2/2026,4/11/2026,Economy/Economy,49100,55000,104100
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/2/2026,3/27/2026,Economy/Economy,49100,55000,104100
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,3/4/2026,3/23/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,3/4/2026,3/5/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,3/4/2026,4/6/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,3/4/2026,4/10/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,3/4/2026,4/9/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,3/4/2026,3/20/2026,Economy/Economy,14200,15000,29200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,3/4/2026,3/13/2026,Economy/Economy,14200,15000,29200
+IAD-CUN,"Washington, D.C.",Cancun,IAD,CUN,3/4/2026,,Economy,19100,N/A,N/A
+IAD-PHX,"Washington, D.C.",Phoenix,IAD,PHX,3/4/2026,4/1/2026,Economy/Economy,15000,15000,30000
+IAD-PHX,"Washington, D.C.",Phoenix,IAD,PHX,3/4/2026,3/31/2026,Economy/Economy,15000,15000,30000
+IAD-DUB,"Washington, D.C.",Dublin,IAD,DUB,3/4/2026,,Economy,33400,N/A,N/A
+IAD-SLC,"Washington, D.C.",Salt Lake City,IAD,SLC,3/4/2026,3/17/2026,Economy/Economy,13500,15000,28500
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/5/2026,4/7/2026,Economy/Economy,31200,28500,59700
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/5/2026,3/20/2026,Economy/Economy,31200,28500,59700
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/5/2026,3/30/2026,Economy/Economy,31200,39300,70500
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/5/2026,3/29/2026,Economy/Economy,31200,40000,71200
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/5/2026,3/15/2026,Economy/Economy,31200,40000,71200
+IAD-CUN,"Washington, D.C.",Cancun,IAD,CUN,3/5/2026,,Economy,20000,N/A,N/A
+IAD-LAS,"Washington, D.C.",Las Vegas,IAD,LAS,3/7/2026,4/3/2026,Economy/Economy,15000,15000,30000
+IAD-LAS,"Washington, D.C.",Las Vegas,IAD,LAS,3/7/2026,3/16/2026,Economy/Economy,15000,15000,30000
+IAD-LAS,"Washington, D.C.",Las Vegas,IAD,LAS,3/7/2026,4/2/2026,Economy/Economy,15000,15000,30000
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/7/2026,4/7/2026,Economy/Economy,31200,28500,59700
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/7/2026,3/20/2026,Economy/Economy,31200,28500,59700
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/7/2026,3/30/2026,Economy/Economy,31200,39300,70500
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/7/2026,3/29/2026,Economy/Economy,31200,40000,71200
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/7/2026,3/15/2026,Economy/Economy,31200,40000,71200
+IAD-MAD,"Washington, D.C.",Madrid,IAD,MAD,3/7/2026,,Economy,40000,N/A,N/A
+IAD-BCN,"Washington, D.C.",Barcelona,IAD,BCN,3/7/2026,3/25/2026,Economy/Economy,40000,39300,79300
+IAD-BCN,"Washington, D.C.",Barcelona,IAD,BCN,3/7/2026,3/27/2026,Economy/Economy,40000,44000,84000
+IAD-SLC,"Washington, D.C.",Salt Lake City,IAD,SLC,3/7/2026,3/17/2026,Economy/Economy,13500,15000,28500
+IAD-PHX,"Washington, D.C.",Phoenix,IAD,PHX,3/8/2026,4/1/2026,Economy/Economy,15000,15000,30000
+IAD-PHX,"Washington, D.C.",Phoenix,IAD,PHX,3/8/2026,3/31/2026,Economy/Economy,15000,15000,30000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,3/8/2026,3/24/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,3/8/2026,3/30/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,3/8/2026,3/26/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,3/8/2026,3/25/2026,Economy/Economy,55000,55000,110000
+IAD-BCN,"Washington, D.C.",Barcelona,IAD,BCN,3/8/2026,3/25/2026,Economy/Economy,40000,39300,79300
+IAD-BCN,"Washington, D.C.",Barcelona,IAD,BCN,3/8/2026,3/27/2026,Economy/Economy,40000,44000,84000
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/9/2026,3/25/2026,Economy/Economy,49100,30700,79800
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/9/2026,3/20/2026,Economy/Economy,49100,30700,79800
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/9/2026,4/10/2026,Economy/Economy,49100,30700,79800
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/9/2026,3/22/2026,Economy/Economy,49100,55000,104100
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/9/2026,4/11/2026,Economy/Economy,49100,55000,104100
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/9/2026,3/27/2026,Economy/Economy,49100,55000,104100
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/10/2026,4/7/2026,Economy/Economy,28400,28500,56900
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/10/2026,3/20/2026,Economy/Economy,28400,28500,56900
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/10/2026,3/30/2026,Economy/Economy,28400,39300,67700
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/10/2026,3/29/2026,Economy/Economy,28400,40000,68400
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/10/2026,3/15/2026,Economy/Economy,28400,40000,68400
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/10/2026,3/25/2026,Economy/Economy,47000,30700,77700
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/10/2026,3/20/2026,Economy/Economy,47000,30700,77700
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/10/2026,4/10/2026,Economy/Economy,47000,30700,77700
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/10/2026,3/22/2026,Economy/Economy,47000,55000,102000
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/10/2026,4/11/2026,Economy/Economy,47000,55000,102000
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/10/2026,3/27/2026,Economy/Economy,47000,55000,102000
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/11/2026,4/7/2026,Economy/Economy,28400,28500,56900
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/11/2026,3/20/2026,Economy/Economy,28400,28500,56900
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/11/2026,3/30/2026,Economy/Economy,28400,39300,67700
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/11/2026,3/29/2026,Economy/Economy,28400,40000,68400
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/11/2026,3/15/2026,Economy/Economy,28400,40000,68400
+IAD-LAS,"Washington, D.C.",Las Vegas,IAD,LAS,3/13/2026,4/3/2026,Economy/Economy,15000,15000,30000
+IAD-LAS,"Washington, D.C.",Las Vegas,IAD,LAS,3/13/2026,3/16/2026,Economy/Economy,15000,15000,30000
+IAD-LAS,"Washington, D.C.",Las Vegas,IAD,LAS,3/13/2026,4/2/2026,Economy/Economy,15000,15000,30000
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/14/2026,4/7/2026,Economy/Economy,31200,28500,59700
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/14/2026,3/20/2026,Economy/Economy,31200,28500,59700
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/14/2026,3/30/2026,Economy/Economy,31200,39300,70500
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/14/2026,3/29/2026,Economy/Economy,31200,40000,71200
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/14/2026,3/15/2026,Economy/Economy,31200,40000,71200
+IAD-DUB,"Washington, D.C.",Dublin,IAD,DUB,3/14/2026,,Economy,49000,N/A,N/A
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/15/2026,4/7/2026,Economy/Economy,28400,28500,56900
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/15/2026,3/20/2026,Economy/Economy,28400,28500,56900
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/15/2026,3/30/2026,Economy/Economy,28400,39300,67700
+IAD-LHR,"Washington, D.C.",London,IAD,LHR,3/15/2026,3/29/2026,Economy/Economy,28400,40000,68400
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,3/15/2026,3/29/2026,Economy/Economy,25000,25000,50000
+IAD-MAD,"Washington, D.C.",Madrid,IAD,MAD,3/15/2026,,Economy,44000,N/A,N/A
+IAD-DUB,"Washington, D.C.",Dublin,IAD,DUB,3/15/2026,,Economy,40000,N/A,N/A
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/15/2026,3/25/2026,Economy/Economy,51300,30700,82000
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/15/2026,3/20/2026,Economy/Economy,51300,30700,82000
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/15/2026,4/10/2026,Economy/Economy,51300,30700,82000
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/15/2026,3/22/2026,Economy/Economy,51300,55000,106300
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/15/2026,4/11/2026,Economy/Economy,51300,55000,106300
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/15/2026,3/27/2026,Economy/Economy,51300,55000,106300
+IAD-ZRH,"Washington, D.C.",Zurich,IAD,ZRH,3/15/2026,3/26/2026,Economy/Economy,40000,39300,79300
+IAD-ZRH,"Washington, D.C.",Zurich,IAD,ZRH,3/15/2026,3/25/2026,Economy/Economy,40000,39300,79300
+IAD-ZRH,"Washington, D.C.",Zurich,IAD,ZRH,3/15/2026,3/20/2026,Economy/Economy,40000,40000,80000
+IAD-CDG,"Washington, D.C.",Paris,IAD,CDG,3/16/2026,4/3/2026,Economy/Economy,31200,40000,71200
+IAD-CDG,"Washington, D.C.",Paris,IAD,CDG,3/16/2026,4/12/2026,Economy/Economy,31200,40000,71200
+IAD-CDG,"Washington, D.C.",Paris,IAD,CDG,3/16/2026,4/11/2026,Economy/Economy,31200,44000,75200
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,3/16/2026,3/24/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,3/16/2026,3/30/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,3/16/2026,3/26/2026,Economy/Economy,55000,55000,110000
+IAD-HND,"Washington, D.C.",Tokyo,IAD,HND,3/16/2026,3/25/2026,Economy/Economy,55000,55000,110000
+IAD-DUB,"Washington, D.C.",Dublin,IAD,DUB,3/16/2026,,Economy,33400,N/A,N/A
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/16/2026,3/25/2026,Economy/Economy,51300,30700,82000
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/16/2026,3/20/2026,Economy/Economy,51300,30700,82000
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/16/2026,4/10/2026,Economy/Economy,51300,30700,82000
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/16/2026,3/22/2026,Economy/Economy,51300,55000,106300
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/16/2026,4/11/2026,Economy/Economy,51300,55000,106300
+IAD-TPE,"Washington, D.C.",Taipei,IAD,TPE,3/16/2026,3/27/2026,Economy/Economy,51300,55000,106300
+IAD-DUB,"Washington, D.C.",Dublin,IAD,DUB,3/17/2026,,Economy,33400,N/A,N/A
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,3/18/2026,4/4/2026,Economy/Economy,14200,13500,27700
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,3/18/2026,4/8/2026,Economy/Economy,14200,14200,28400
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,3/18/2026,4/10/2026,Economy/Economy,14200,15000,29200
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,3/18/2026,4/2/2026,Economy/Economy,14200,15000,29200
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,3/18/2026,4/7/2026,Economy/Economy,14200,15000,29200
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,3/18/2026,3/22/2026,Economy/Economy,14200,15000,29200
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,3/18/2026,4/6/2026,Economy/Economy,14200,15000,29200
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,3/18/2026,3/23/2026,Economy/Economy,14200,15000,29200
+IAD-HNL,"Washington, D.C.",Honolulu,IAD,HNL,3/18/2026,3/29/2026,Economy/Economy,25000,25000,50000
+IAD-CDG,"Washington, D.C.",Paris,IAD,CDG,3/18/2026,4/3/2026,Economy/Economy,31200,40000,71200
+IAD-CDG,"Washington, D.C.",Paris,IAD,CDG,3/18/2026,4/12/2026,Economy/Economy,31200,40000,71200
+IAD-CDG,"Washington, D.C.",Paris,IAD,CDG,3/18/2026,4/11/2026,Economy/Economy,31200,44000,75200
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,3/20/2026,3/23/2026,Economy/Economy,15000,15000,30000
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,3/20/2026,4/6/2026,Economy/Economy,15000,15000,30000
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,3/20/2026,4/10/2026,Economy/Economy,15000,15000,30000
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,3/20/2026,4/9/2026,Economy/Economy,15000,15000,30000
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,3/21/2026,4/4/2026,Economy/Economy,14200,13500,27700
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,3/21/2026,4/8/2026,Economy/Economy,14200,14200,28400
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,3/21/2026,4/10/2026,Economy/Economy,14200,15000,29200
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,3/21/2026,4/2/2026,Economy/Economy,14200,15000,29200
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,3/21/2026,4/7/2026,Economy/Economy,14200,15000,29200
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,3/21/2026,3/22/2026,Economy/Economy,14200,15000,29200
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,3/21/2026,4/6/2026,Economy/Economy,14200,15000,29200
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,3/21/2026,3/23/2026,Economy/Economy,14200,15000,29200
+IAD-FCO,"Washington, D.C.",Rome,IAD,FCO,3/24/2026,4/17/2026,Economy/Economy,40000,40000,80000
+IAD-FCO,"Washington, D.C.",Rome,IAD,FCO,3/24/2026,4/15/2026,Economy/Economy,40000,40000,80000
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,3/25/2026,4/6/2026,Economy/Economy,15000,15000,30000
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,3/25/2026,4/10/2026,Economy/Economy,15000,15000,30000
+IAD-LAX,"Washington, D.C.",Los Angeles,IAD,LAX,3/25/2026,4/9/2026,Economy/Economy,15000,15000,30000
+IAD-LIS,"Washington, D.C.",Lisbon,IAD,LIS,3/25/2026,,Economy,44000,N/A,N/A
+IAD-ZRH,"Washington, D.C.",Zurich,IAD,ZRH,3/25/2026,3/26/2026,Economy/Economy,40000,39300,79300
+IAD-MAD,"Washington, D.C.",Madrid,IAD,MAD,3/29/2026,,Economy,44000,N/A,N/A
+IAD-CDG,"Washington, D.C.",Paris,IAD,CDG,3/30/2026,4/3/2026,Economy/Economy,40000,40000,80000
+IAD-CDG,"Washington, D.C.",Paris,IAD,CDG,3/30/2026,4/12/2026,Economy/Economy,40000,40000,80000
+IAD-CDG,"Washington, D.C.",Paris,IAD,CDG,3/30/2026,4/11/2026,Economy/Economy,40000,44000,84000
+IAD-MAD,"Washington, D.C.",Madrid,IAD,MAD,3/30/2026,,Economy,44000,N/A,N/A
+IAD-CHS,"Washington, D.C.",Charleston,IAD,CHS,3/30/2026,4/12/2026,Economy/Economy,10100,14300,24400
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,3/31/2026,4/4/2026,Economy/Economy,12800,13500,26300
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,3/31/2026,4/8/2026,Economy/Economy,12800,14200,27000
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,3/31/2026,4/10/2026,Economy/Economy,12800,15000,27800
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,3/31/2026,4/2/2026,Economy/Economy,12800,15000,27800
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,3/31/2026,4/7/2026,Economy/Economy,12800,15000,27800
+IAD-SFO,"Washington, D.C.",San Francisco,IAD,SFO,3/31/2026,4/6/2026,Economy/Economy,12800,15000,27800
+IAD-LAS,"Washington, D.C.",Las Vegas,IAD,LAS,3/31/2026,4/3/2026,Economy/Economy,15000,15000,30000
+IAD-LAS,"Washington, D.C.",Las Vegas,IAD,LAS,3/31/2026,4/2/2026,Economy/Economy,15000,15000,30000
+IAD-CDG,"Washington, D.C.",Paris,IAD,CDG,4/4/2026,4/12/2026,Economy/Economy,40000,40000,80000
+IAD-CDG,"Washington, D.C.",Paris,IAD,CDG,4/4/2026,4/11/2026,Economy/Economy,40000,44000,84000
+IAD-CHS,"Washington, D.C.",Charleston,IAD,CHS,4/4/2026,4/12/2026,Economy/Economy,9300,14300,23600
+IAD-CDG,"Washington, D.C.",Paris,IAD,CDG,4/5/2026,4/12/2026,Economy/Economy,40000,40000,80000
+IAD-CDG,"Washington, D.C.",Paris,IAD,CDG,4/5/2026,4/11/2026,Economy/Economy,40000,44000,84000
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,4/6/2026,4/16/2026,Economy/Economy,14200,15000,29200
+IAD-DEN,"Washington, D.C.",Denver,IAD,DEN,4/6/2026,4/17/2026,Economy/Economy,14200,15000,29200
+IAD-CDG,"Washington, D.C.",Paris,IAD,CDG,4/7/2026,4/12/2026,Economy/Economy,31200,40000,71200
+IAD-CDG,"Washington, D.C.",Paris,IAD,CDG,4/7/2026,4/11/2026,Economy/Economy,31200,44000,75200
+IAD-CDG,"Washington, D.C.",Paris,IAD,CDG,4/8/2026,4/12/2026,Economy/Economy,31200,40000,71200
+IAD-CDG,"Washington, D.C.",Paris,IAD,CDG,4/8/2026,4/11/2026,Economy/Economy,31200,44000,75200
+IAD-FCO,"Washington, D.C.",Rome,IAD,FCO,4/9/2026,4/17/2026,Economy/Economy,44000,40000,84000
+IAD-FCO,"Washington, D.C.",Rome,IAD,FCO,4/9/2026,4/15/2026,Economy/Economy,44000,40000,84000
+IAD-CDG,"Washington, D.C.",Paris,IAD,CDG,4/10/2026,4/12/2026,Economy/Economy,40000,40000,80000
+IAD-CDG,"Washington, D.C.",Paris,IAD,CDG,4/10/2026,4/11/2026,Economy/Economy,40000,44000,84000
+IAD-CUN,"Washington, D.C.",Cancun,IAD,CUN,4/11/2026,,Economy,20000,N/A,N/A
+IAD-DUB,"Washington, D.C.",Dublin,IAD,DUB,4/11/2026,,Economy,39000,N/A,N/A
+IAD-FLL,"Washington, D.C.",Fort Lauderdale,IAD,FLL,4/12/2026,4/17/2026,Economy/Economy,15000,10000,25000
+IAD-FLL,"Washington, D.C.",Fort Lauderdale,IAD,FLL,4/13/2026,4/17/2026,Economy/Economy,10000,10000,20000
+IAD-FCO,"Washington, D.C.",Rome,IAD,FCO,4/16/2026,4/17/2026,Economy/Economy,40000,40000,80000
